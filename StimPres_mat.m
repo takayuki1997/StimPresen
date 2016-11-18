@@ -1,8 +1,8 @@
- function StimPres_mat_stim
+ function StimPres_mat
  % modified from Stimulus_presentation and face_1000_para_Mar.m in Manabu's Lab and to add dio1(parallel
  % port) output to TDT ; this version with small size and rotation postition variation 110411 
 
-close all; clear all;
+close all; clear;
 fprintf('\n\n================================\n%s\n%s\n\n',...
     mfilename,datestr(now));
 
